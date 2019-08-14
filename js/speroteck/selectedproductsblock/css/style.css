@@ -1,0 +1,17 @@
+.selected-products .item {
+    float: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 140px;
+}
+.selected-products .product-name {
+    word-break: normal;
+}
+
+.selected-products .product-details {
+    margin-top: 5px;
+}
+.selected-products .price-box p {
+    margin-bottom: 0;
+}
