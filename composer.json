@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Speroteck_SelectedProductsBlock",
+    "name": "OpenMageModuleFostering\/Speroteck_SelectedProductsBlock",
     "type": "magento-module",
     "license": "Open-Software-License-v.-3.0-(OSL-3.0)",
     "homepage": "",
     "description": "Widget to display list of selected products",
     "authors": [
-    {
-        "name": "Speroteck Team",
-        "email": "dev@speroteck.com"
-    }
-],
+        {
+            "name": "Speroteck Team",
+            "email": "dev@speroteck.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
